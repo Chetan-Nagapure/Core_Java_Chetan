@@ -3,7 +3,7 @@ package com.mkpits.Practice;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class ProblemSolving 
+public class DeleteDuplicateElementInArray 
 {
 //delete the duplicate element in array and print the index of that element. 
 	public static void main(String[] args)
@@ -34,11 +34,8 @@ public class ProblemSolving
 			System.out.println(i);
 		}
 			
-			
 	}
 	
-	
-			
 	}
 
 }

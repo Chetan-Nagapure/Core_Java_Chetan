@@ -2,7 +2,7 @@ package com.mkpits.Practice;
 
 import java.util.Arrays;
 
-public class ProblemSolving4 
+public class SecondLargestNumberInArray 
 {
 	//second way to find the second largest number in the array.
 	public static void main(String[] args) 

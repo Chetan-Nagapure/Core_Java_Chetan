@@ -1,6 +1,6 @@
 package com.mkpits.Practice;
 
-public class ProblemSolving5 
+public class TransposeMatrix 
 {
 
 	//Transpose of Matrix
